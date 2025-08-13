@@ -36,18 +36,20 @@ This project demonstrates the use of **Object-Oriented Programming (OOP)** conce
 
 ## 📂 Project Structure
 ContactManagementSystem.java
-└── class Contact
-├── String name
-├── String phone
-├── String email
-└── class ContactManagementSystem
-├── addContact()
-├── viewContacts()
-├── searchContact()
-├── updateContact()
-├── deleteContact()
-├── main()
 
+- └── class Contact
+- ├── String name
+- ├── String phone
+- ├── String email
+
+  
+- └── class ContactManagementSystem
+- ├── addContact()
+- ├── viewContacts()
+- ├── searchContact()
+- ├── updateContact()
+- ├── deleteContact()
+- ├── main()
 
 
 ---
