@@ -37,19 +37,19 @@ This project demonstrates the use of **Object-Oriented Programming (OOP)** conce
 ## 📂 Project Structure
 ContactManagementSystem.java
 
-- └── class Contact
-- ├── String name
-- ├── String phone
-- ├── String email
+└── class Contact <br>
+├── String name <br>
+├── String phone <br>
+├── String email <br><br>
 
   
-- └── class ContactManagementSystem
-- ├── addContact()
-- ├── viewContacts()
-- ├── searchContact()
-- ├── updateContact()
-- ├── deleteContact()
-- ├── main()
+└── class ContactManagementSystem <br>
+├── addContact()<br>
+├── viewContacts()<br>
+├── searchContact()<br>
+├── updateContact()<br>
+├── deleteContact()<br>
+├── main()<br>
 
 
 ---
@@ -67,7 +67,7 @@ ContactManagementSystem.java
 ## 📦 How to Run
 1. **Clone or Download** the project.
 2. Open in your **IDE** or save as `ContactManagementSystem.java`.
-3. Compile the program:
-   javac ContactManagementSystem.java
-4. Run the program
-  java ContactManagementSystem
+3. Compile the program: <br>
+       javac ContactManagementSystem.java
+4. Run the program: <br>
+      java ContactManagementSystem
